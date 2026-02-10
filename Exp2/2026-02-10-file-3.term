@@ -1,0 +1,3 @@
+gcc -exp2.c -o exp2
+gcc exp2.c -o exp2
+./exp2
