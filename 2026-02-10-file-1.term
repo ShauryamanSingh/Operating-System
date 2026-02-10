@@ -1,0 +1,8 @@
+gcc -exp1a.c -o exp1a
+gcc exp1a.c -o exp1a
+gcc exp1_a.c -o exp1a
+./exp1a
+gcc exp1_b.c -o exp1b
+./exp1b
+gcc exp1_c.c -o exp1c
+./exp1c
